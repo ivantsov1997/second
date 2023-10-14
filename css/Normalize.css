@@ -347,3 +347,14 @@
   [hidden] {
     display: none;
   }
+
+
+  @font-face {
+    font-family: "Huy";
+    src: url("../fonts/static/Nunito-Regular.ttf");
+  }
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
