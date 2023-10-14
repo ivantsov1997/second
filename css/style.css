@@ -95,6 +95,18 @@ a{
     margin:70px 0 185px;
   }
 
+  .about{
+    padding: 91px 0 97px;
+  margin: 0 35%;
+  }
+
+  .about-title{
+  }
+
+  .about-text{
+
+  }
+
   .we{
     display: flex;
   }
