@@ -564,3 +564,17 @@ ul {
   padding: 0 22px;
   text-align: center;
 }
+.contact{
+  display: flex;
+  padding: 90px 200px;
+  flex-direction: column;
+  text-align: center;
+  gap: 40px;
+}
+
+.contact-title{
+  text-transform: uppercase;
+  color: #7b6c63;
+  font-size: 40px;
+  margin-bottom: 90px;
+}
